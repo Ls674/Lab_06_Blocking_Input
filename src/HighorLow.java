@@ -1,4 +1,4 @@
-public class Main {
+public class HighorLow {
     public static void main(String[] args) {
 
     }
